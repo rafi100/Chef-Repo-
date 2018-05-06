@@ -5,8 +5,8 @@ All installations require a central workspace known as the chef-repo. This is a 
 The chef-repo should be kept under version control, such as [git](http://git-scm.org), and then managed as if it were source code.
 
 Knife Configuration
--------------------------
-Knife is the [command line interface](https://docs.chef.io/knife.html) for Chef. The chef-repo contains a .chef directory (which is a hidden directory by default) in which the Knife configuration file (knife.rb) is located. This file contains configuration settings for the chef-repo.
+------------------dsfdsfd-------
+Knife is the [command line interface](https://docs.chef.io/knife.html) for Chef. The chef-repo contains a .chef directory (which is a hidden directory bfy default) in which the Knife configuration file (knife.rb) is located. This file contains configuration settings for the chef-repo.
 
 The knife.rb file is automatically created by the starter kit. This file can be customized to support configuration settings used by [cloud provider options](https://docs.chef.io/plugin_knife.html) and custom [knife plugins](https://docs.chef.io/plugin_knife_custom.html).
 
